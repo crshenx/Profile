@@ -13,16 +13,12 @@ I have experience with a wide range of technologies, including:
 - Jest
 - Material UI
 - Bootstrap
-- AWS
 - Ruby
 - Rails
 - SQL
 - mySQL
 - postgresQL
 - Node
-- macOS
-- Windows
-- Linux
 - Microsoft Office Applications including Visual Studio Code.
 
 I'm always eager to learn new technologies and stay up-to-date with industry trends.
