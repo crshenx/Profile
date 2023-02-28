@@ -25,11 +25,13 @@ I'm always eager to learn new technologies and stay up-to-date with industry tre
 
 ## Work Experience
 
-- Graduated from Flatiron School's software engineering bootcamp, where I learned how to build full-stack web applications using Ruby on Rails, React, and other modern technologies. Currently I am self-employed at plus2creative as a full stack software engineer implementing solutions to grow our business. I am responsible for managing each project from start to finish, from requirements gathering and design to testing and deployment. Throughout the project, I collaborated closely with my business partner to ensure that our solutions met their needs and exceeded their expectations.
+- Currently I am self-employed at plus2creative as a full stack software engineer implementing solutions to grow our business. I am responsible for managing each project from start to finish, from requirements gathering and design to testing and deployment. Throughout the project, I collaborated closely with my business partner to ensure that our solutions met their needs and exceeded their expectations.
 
 ## Education
 
 - Currently, I'm a part-time student pursuing a Bachelor's degree in Computer Science, and I'm also seeking opportunities to apply my technical skills in a professional setting. While I'm committed to my studies, I understand the importance of gaining real-world experience and contributing to a company's success. I'm eager to find a role where I can balance my education with my career goals and make valuable contributions to the team. 
+
+- Graduated from Flatiron School's software engineering bootcamp, where I learned how to build full-stack web applications using Ruby on Rails, React, and other modern technologies. 
 
 ## Contact Information
 
